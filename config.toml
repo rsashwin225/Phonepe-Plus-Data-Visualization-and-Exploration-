@@ -1,0 +1,8 @@
+[theme]
+# Theme tuned for Ashwin R S — UPI Transactions Explorer (Personal Edition)
+base = "dark"
+primaryColor = "#2ECC71"          # Matches the app header green
+backgroundColor = "#0D1117"       # Clean dark tone
+secondaryBackgroundColor = "#1A1F24"
+textColor = "#F8F8F8"
+font = "sans serif"
