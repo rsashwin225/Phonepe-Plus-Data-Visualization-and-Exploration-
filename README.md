@@ -80,4 +80,3 @@ If you’d like to connect or have questions:
 
 Email: rsashwin2253@example.com
 
-LinkedIn: your-linkedin-profile
